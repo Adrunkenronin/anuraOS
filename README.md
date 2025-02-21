@@ -1,3 +1,10 @@
+# git clone --recursive https://github.com/MercuryWorkshop/anuraOS
+# make all -B
+# make server
+
+
+
+
 ![AnuraOS logo](/assets/logo_dark.png#gh-light-mode-only)
 ![AnuraOS logo](/assets/logo_light.png#gh-dark-mode-only)
 
