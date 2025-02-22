@@ -1,3 +1,4 @@
+# source codespace-basic-setup.sh 
 # git clone --recursive https://github.com/MercuryWorkshop/anuraOS
 # make all -B
 # make server
